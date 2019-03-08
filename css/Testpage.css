@@ -39,3 +39,21 @@ h3{
 p{
 	padding-left: 40px;
 }
+
+img.spacex{
+	padding-left: 250px;
+	padding-right: 250px;
+	width: 150px;
+}
+
+img.tesla{
+	padding-left: 250px;
+	padding-right: 250px;
+	width: 150px;
+}
+
+img.boring{
+	padding-left: 250px;
+	padding-right: 150px;
+	width: 150px;
+}
